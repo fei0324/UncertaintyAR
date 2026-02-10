@@ -1,0 +1,82 @@
+############################
+# OS / Editor / IDE
+############################
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+############################
+# Python
+############################
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+ruff_cache/
+.cache/
+
+# virtualenvs / conda
+.venv/
+venv/
+env/
+ENV/
+.conda/
+conda-env/
+*.conda
+
+############################
+# Intermediate files control
+############################
+
+# Ignore everything under Algorithms by default
+Algorithms/**
+
+# But keep the folder structure
+!Algorithms/
+!Algorithms/**/
+
+# Keep ARCatalog folders and their contents
+!Algorithms/**/ARCatalog/
+!Algorithms/**/ARCatalog/**
+
+# Explicitly ignore the heavy folders
+Algorithms/**/GraphAxis/
+Algorithms/**/GraphAxis/**
+
+Algorithms/**/IntermediateFiles/
+Algorithms/**/IntermediateFiles/**
+
+
+############################
+# Data
+############################
+Ensembles/
+
+############################
+# Large scientific data formats
+############################
+# NetCDF / HDF / Zarr
+*.nc
+*.nc4
+*.h5
+*.hdf5
+*.zarr/
+*.zip
+*.tar
+*.tar.gz
+*.tgz

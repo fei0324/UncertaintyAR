@@ -1,0 +1,84 @@
+{
+  "0": {
+    "algo_name": "ar_connect",
+    "year": 2017,
+    "day_hour_num": [
+      "(7, 2, 8)"
+    ]
+  },
+  "1": {
+     "algo_name": "climatenet",
+     "year": 2017,
+     "day_hour_num": [
+       "(7, 2, 14)"
+    ]
+  },
+  "2": {
+    "algo_name": "guan_waliser_v3",
+    "year": 2017,
+    "day_hour_num": [
+      "(7, 2, 2)"
+    ]
+  },
+  "3": {
+    "algo_name": "mundhenk_v3",
+    "year": 2017,
+    "day_hour_num": [
+      "(7, 2, 10)"
+    ]
+  },
+  "4": {
+    "algo_name": "panlu",
+    "year": 2017,
+    "day_hour_num": [
+      "(7, 2, 6)"
+    ]
+  },
+  "5": {
+    "algo_name": "reid500",
+    "year": 2017,
+    "day_hour_num": [
+      "(7, 2, 4)"
+    ]
+  },
+  "6": {
+    "algo_name": "rutz",
+    "year": 2017,
+    "day_hour_num": [
+      "(7, 2, 11)"
+    ]
+  },
+  "7": {
+      "algo_name": "sail_v1",
+      "year": "none",
+      "day_hour_num": []
+  },
+  "8": {
+    "algo_name": "teca_bard_v1.0.1",
+    "year": 2017,
+    "day_hour_num": [
+      "(7, 2, 6)"
+    ]
+  },
+  "9": {
+    "algo_name": "tempest_250",
+    "year": 2017,
+    "day_hour_num": [
+      "(7, 2, 22)"
+    ]
+  },
+  "10": {
+    "algo_name": "tempest_500",
+    "year": 2017,
+    "day_hour_num": [
+      "(7, 2, 15)"
+    ]
+  },
+  "11": {
+    "algo_name": "tempest_700",
+    "year": 2017,
+    "day_hour_num": [
+      "(7, 2, 6)"
+    ]
+  }
+}
