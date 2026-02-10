@@ -13,16 +13,16 @@ Many scripts require the **ParaView** and must be executed using `pvpython`. Ple
 ## Dependencies:
 
 The core Python dependencies are:
-    + `python=3.9`
-    + `numpy`
-    + `matplotlib`
-    + `networkx`
-    + `vtk`
-    + `scipy`
-    + `alphashape`
-    + `shapely`
-    + `seaborn`
-    + `seaborn-image`
+- `python=3.9`
+- `numpy`
+- `matplotlib`
+- `networkx`
+- `vtk`
+- `scipy`
+- `alphashape`
+- `shapely`
+- `seaborn`
+- `seaborn-image`
 
 ## MetroSet Demo
 
