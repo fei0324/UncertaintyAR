@@ -584,7 +584,7 @@ def drawFromJSON(ensemble_path, sim_threshold, color_dict, xlimit, ylimit):
     print(background_name)
     background_img = plt.imread(background_name)
     # plt.imshow(background_img, zorder=0, extent=[xlimit[0], xlimit[1], ylimit[0], ylimit[1]])
-    plt.imshow(background_img, zorder=0, extent=[xlimit[0], xlimit[1], ylimit[1], ylimit[0]])
+    plt.imshow(background_img, zorder=0, extent=[xlimit[0], xlimit[1], ylimit[0], ylimit[1]])
     img_name = background_name.split("/")[-1]
     # plt.savefig("./CaseStudies/20061023/" + img_name, bbox_inches='tight')
     # plt.savefig("./CaseStudies/20170107/" + img_name, bbox_inches='tight')
