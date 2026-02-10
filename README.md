@@ -10,7 +10,7 @@ This codebase was tested on **ParaView 5.10.0** with python 3.9.
 Many scripts require the **ParaView** and must be executed using `pvpython`. Please make sure that ParaView is installed and it's added to your environment path.
 
 
-## Dependencies:
+## Dependencies
 
 The core Python dependencies are:
 - `python=3.9`
@@ -70,6 +70,6 @@ $ python getMetroSet.py
 
 The final figure is saved under `figures/metrosets/`
 
-## Contour boxplot demo:
+## Contour boxplot demo
 + Generate contour boxplot data using the function drawContourBoxplot() from getContourBoxplot.py
 + Create the contour boxplot plot by running the rest of the getContourBoxplot.py file. Change `data_dir` to your data directory from the data you just generated.
