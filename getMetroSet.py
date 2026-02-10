@@ -579,7 +579,7 @@ def drawFromJSON(ensemble_path, sim_threshold, color_dict, xlimit, ylimit):
     plt.xlim(xlimit)
     plt.ylim(ylimit)
 
-    # add background
+    # add background (can comment out if background image is not needed)
     background_name = ensemble_path[:-4] + "png"
     print(background_name)
     background_img = plt.imread(background_name)

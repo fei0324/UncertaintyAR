@@ -229,8 +229,12 @@ if __name__ == "__main__":
     color_dict = {0: "#1F77B4", 1: "#f7d42a", 2: "#2CA02C", 3: "#D62728", 4: "#9467BD", 5: "#8C564B", 6: "#E377C2",
                   7: "#7F7F7F", 8: "#BCBD22", 9: "#17BECF", 10: "#FF9896", 11: "#AEC7E8", 12: "#A699E8"}
 
+    # Step 1: Generate contour boxplot data using the drawContourBoxplot function. Input the same json file.
+    # drawContourBoxplot(".demo/2017_7_2.json", color_dict, [240, 410], [220, 320])
     # drawContourBoxplot("./Ensembles/20170107-0109/2017_8_3.json", color_dict, [240, 410], [220, 320])
     # drawContourBoxplot("./Ensembles/20061023-1024/2006_296_0.json", color_dict, [240, 410], [220, 320])
+
+    # Step 2: Create contour boxplot
     # data_dir = "./Ensembles/20170107-0109"
     data_dir = "./Ensembles/20061023-1024"
     dict_files = []
