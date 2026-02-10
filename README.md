@@ -7,7 +7,7 @@ Lan, F., Gamelin, B., Yan, L., Wang, J., Wang, B. and Guo, H. (2024), Topologica
 ![License](https://img.shields.io/badge/license-BSD--3--Clause-green.svg)
 
 
-## Installation:
+## Installation
 
 This codebase was tested on **ParaView 5.10.0** with python 3.9.
 
