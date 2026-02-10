@@ -3,6 +3,10 @@
 This repository contains the code associated with the paper  
 Lan, F., Gamelin, B., Yan, L., Wang, J., Wang, B. and Guo, H. (2024), Topological Characterization and Uncertainty Visualization of Atmospheric Rivers. Computer Graphics Forum, 43: e15084. https://doi.org/10.1111/cgf.15084
 
+![Python](https://img.shields.io/badge/python-3.9-blue.svg)
+![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)
+
+
 ## Installation:
 
 This codebase was tested on **ParaView 5.10.0** with python 3.9.
