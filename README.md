@@ -70,6 +70,9 @@ $ python getMetroSet.py
 
 The final figure is saved under `figures/metrosets/`
 
+![MetroSet visualization example](figures/metrosets/2017_7_2.png)
+
+
 ## Contour boxplot demo
 + Generate contour boxplot data using the function drawContourBoxplot() from getContourBoxplot.py
 + Create the contour boxplot plot by running the rest of the getContourBoxplot.py file. Change `data_dir` to your data directory from the data you just generated.
